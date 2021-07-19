@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "177795856649",
+    "project_id": "cickshub-d4937",
+    "storage_bucket": "cickshub-d4937.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177795856649:android:94c42499d649f36837fbd8",
+        "android_client_info": {
+          "package_name": "com.example.zapatos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177795856649-vuvuhp5elbns973pv0s8vm5jqatu54j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx4nfW_kUbcvj5qJfE1Jy-bsfTk4baHHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177795856649-vuvuhp5elbns973pv0s8vm5jqatu54j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
